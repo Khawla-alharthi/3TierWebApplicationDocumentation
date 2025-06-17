@@ -1,0 +1,6 @@
+@_3TierWebApplication.API_HostAddress = http://localhost:5202
+
+GET {{_3TierWebApplication.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

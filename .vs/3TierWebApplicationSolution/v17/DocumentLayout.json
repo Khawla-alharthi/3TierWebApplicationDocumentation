@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|c:\\users\\user pc\\source\\repos\\3tierwebapplicationsolution\\3tierwebapplication.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|solutionrelative:3tierwebapplication.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|c:\\users\\user pc\\source\\repos\\3tierwebapplicationsolution\\3tierwebapplication.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|solutionrelative:3tierwebapplication.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|c:\\users\\user pc\\source\\repos\\3tierwebapplicationsolution\\3tierwebapplication.dal\\3tierwebapplication.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|solutionrelative:3tierwebapplication.dal\\3tierwebapplication.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A823572-9414-4599-B496-49211A429098}|3TierWebApplication.BLL\\3TierWebApplication.BLL.csproj|c:\\users\\user pc\\source\\repos\\3tierwebapplicationsolution\\3tierwebapplication.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A823572-9414-4599-B496-49211A429098}|3TierWebApplication.BLL\\3TierWebApplication.BLL.csproj|solutionrelative:3tierwebapplication.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|c:\\users\\user pc\\source\\repos\\3tierwebapplicationsolution\\3tierwebapplication.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A49DE2D-2BEA-4988-813F-ACCC848792CF}|3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj|solutionrelative:3tierwebapplication.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "3TierWebApplication.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "3TierWebApplication.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:37:22.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "3TierWebApplication.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "3TierWebApplication.DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:37:03.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3TierWebApplication.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj",
+              "RelativeDocumentMoniker": "3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj",
+              "RelativeToolTip": "3TierWebApplication.DAL\\3TierWebApplication.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T16:36:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "3TierWebApplication.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.BLL\\Class1.cs",
+              "RelativeToolTip": "3TierWebApplication.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:35:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "3TierWebApplication.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\3TierWebApplicationSolution\\3TierWebApplication.DAL\\Class1.cs",
+              "RelativeToolTip": "3TierWebApplication.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:35:05.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

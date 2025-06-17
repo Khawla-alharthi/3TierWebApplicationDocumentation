@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3TierWebApplication.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43113e438048c89847f0487131e7a1456cd0026d")]
 [assembly: System.Reflection.AssemblyProductAttribute("3TierWebApplication.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3TierWebApplication.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

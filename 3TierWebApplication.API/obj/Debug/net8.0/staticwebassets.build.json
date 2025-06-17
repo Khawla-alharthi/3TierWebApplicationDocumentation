@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D7Q8sGqbQQM908NE1nqCo/TFQFjUNXVH+EgLhAZTggw=",
+  "Source": "3TierWebApplication.API",
+  "BasePath": "_content/3TierWebApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

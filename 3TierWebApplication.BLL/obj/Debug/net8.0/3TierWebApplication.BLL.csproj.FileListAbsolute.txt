@@ -1,0 +1,16 @@
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\bin\Debug\net8.0\3TierWebApplication.BLL.deps.json
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\bin\Debug\net8.0\3TierWebApplication.BLL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\bin\Debug\net8.0\3TierWebApplication.BLL.pdb
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\bin\Debug\net8.0\3TierWebApplication.DAL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\bin\Debug\net8.0\3TierWebApplication.DAL.pdb
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.csproj.AssemblyReference.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.AssemblyInfoInputs.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.AssemblyInfo.cs
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.sourcelink.json
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWeb.C19FE862.Up2Date
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\refint\3TierWebApplication.BLL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\3TierWebApplication.BLL.pdb
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.BLL\obj\Debug\net8.0\ref\3TierWebApplication.BLL.dll

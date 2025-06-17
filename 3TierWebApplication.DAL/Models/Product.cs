@@ -22,7 +22,7 @@ namespace _3TierWebApplication.DAL.Models
 
         [Required]
         [Range(0.01, double.MaxValue)]
-        public decimal Price { get; set; }
+        public double Price { get; set; }
 
         public int Quantity { get; set; }
 

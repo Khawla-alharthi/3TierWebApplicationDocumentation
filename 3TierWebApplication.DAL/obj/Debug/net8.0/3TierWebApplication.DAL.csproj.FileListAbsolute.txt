@@ -1,0 +1,13 @@
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\bin\Debug\net8.0\3TierWebApplication.DAL.deps.json
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\bin\Debug\net8.0\3TierWebApplication.DAL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\bin\Debug\net8.0\3TierWebApplication.DAL.pdb
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.csproj.AssemblyReference.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.AssemblyInfo.cs
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.sourcelink.json
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\refint\3TierWebApplication.DAL.dll
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\3TierWebApplication.DAL.pdb
+C:\Users\user pc\source\repos\3TierWebApplicationSolution\3TierWebApplication.DAL\obj\Debug\net8.0\ref\3TierWebApplication.DAL.dll
